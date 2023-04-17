@@ -16,16 +16,14 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ![](./images/completed.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://leafy-dragon-6677b9.netlify.app/](https://your-solution-url.com)
+- Live Site URL: [https://leafy-dragon-6677b9.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
@@ -80,15 +78,16 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@@wheels63](https://www.frontendmentor.io/profile/@wheels63)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I'm a newbie and this is my third frontendmentor.io challenge. 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I feel very good about my progress. 
+
+I will use this video resource to compare my code. 
+
+https://www.youtube.com/watch?v=KqFAs5d3Yl8&t=44s&ab_channel=KevinPowell
+
+Big ups to Kevin Powell for the great video. And big ups to Frontend Mentor IO as well. 
